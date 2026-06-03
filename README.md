@@ -11,7 +11,7 @@
 💜 *Computational Mathematics Specialist | Data Science | Statistical Modeling*  
 📍 Botucatu - SP | Brasil  
 
-Graduada em **Análise e Desenvolvimento de Sistemas**, com especialização em **Matemática Aplicada à Computação** e **Desenvolvimento Back-End**, atualmente cursando pós-graduação em **Engenharia de Dados e Inteligência Artificial**.
+Graduada em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Matemtica**, com especialização em **Matemática Aplicada à Computação** e **Desenvolvimento Back-End**, e **Engenharia de Dados e Inteligência Artificial**.
 
 Minha atuação é focada na **integração entre matemática, estatística e computação**, aplicando **modelagem matemática, métodos estatísticos e análise de dados** para compreender fenômenos complexos e apoiar tomada de decisão baseada em dados.
 
