@@ -15,11 +15,6 @@ Graduada em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Matem
 
 Minha atuação é focada na **integração entre matemática, estatística e computação**, aplicando **modelagem matemática, métodos estatísticos e análise de dados** para compreender fenômenos complexos e apoiar tomada de decisão baseada em dados.
 
-Atualmente também sou **aluna especial no Programa de Pós-Graduação em Engenharia Agrícola**, estudando:
-
-📊 Planejamento e Análise Estatística de Experimentos  
-🌱 Agricultura de Precisão  
-
 Tenho grande interesse em **modelagem matemática aplicada, ciência de dados, estatística computacional e otimização de sistemas**.
 
 </div>
@@ -47,8 +42,6 @@ Tenho grande interesse em **modelagem matemática aplicada, ciência de dados, e
 - Modelagem Matemática  
 - Estatística Aplicada  
 - Ciência de Dados  
-- Planejamento de Experimentos  
-- Agricultura de Precisão  
 - Machine Learning  
 - Otimização e Modelagem de Sistemas  
 
