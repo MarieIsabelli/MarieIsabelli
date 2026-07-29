@@ -8,15 +8,17 @@
 
 ### 🌸 Olá! Eu sou a **Maria Isabelli**
 
-💜 *Computational Mathematics Specialist | Data Science | Statistical Modeling*  
-📍 Botucatu - SP | Brasil  
+👩‍🏫 Professora de Matemática e Física
 
-Graduada em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Matemtica**, com especialização em **Matemática Aplicada à Computação** e **Desenvolvimento Back-End**, e **Engenharia de Dados e Inteligência Artificial**.
+📊 Data Analytics | Data Engineering | Applied Mathematics
 
-Minha atuação é focada na **integração entre matemática, estatística e computação**, aplicando **modelagem matemática, métodos estatísticos e análise de dados** para compreender fenômenos complexos e apoiar tomada de decisão baseada em dados.
+📍 Botucatu • SP • Brasil
 
-Tenho grande interesse em **modelagem matemática aplicada, ciência de dados, estatística computacional e otimização de sistemas**.
+Sou graduada em Análise e Desenvolvimento de Sistemas e Licenciatura em Matemática, com especializações em Matemática Aplicada à Computação, Desenvolvimento Back-end e Engenharia de Dados & Inteligência Artificial.
 
+Minha atuação conecta educação, matemática, estatística e tecnologia para desenvolver soluções orientadas por dados. Tenho interesse em Ciência de Dados, Engenharia de Dados, Machine Learning, Inteligência Artificial e Modelagem Matemática, aplicando essas áreas para transformar informações em conhecimento e apoiar a tomada de decisões.
+
+💡 *Teaching with mathematics. Building the future with data.*
 </div>
 
 <br>
